@@ -1,1 +1,2 @@
-git submodule add https://github.com/mixi-inc/AndroidTraining.git external/AndroidTraining
+add https://github.com/mixi-inc/AndroidTraining.git external/AndroidTraining
+update --init --recursive
