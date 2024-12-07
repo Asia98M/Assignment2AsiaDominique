@@ -12,4 +12,4 @@ Below are the completed tasks:
 7. Traversing the matrix to find the highest and lowest values.
 
 ### GitLab Repository Link
-[AndroidTraining](https://github.com/mixi-inc/AndroidTraining)>)
+[AndroidTraining](https://github.com/mixi-inc/AndroidTraining)
